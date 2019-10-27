@@ -1,0 +1,2 @@
+To access the admin page: Admin password is set to 'godwin' while the username can be any name.
+To access the database: Create a database with the name property and import the database on this folder to the database created.
